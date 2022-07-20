@@ -1,0 +1,42 @@
+/*h1 {
+    color: red;
+}*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+main-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+subheading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: rgb(144, 120, 165);
+}
+article {
+    background-image: linear-gradient(to right,purple, silver);
+}
+header {
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+}
+header {
+    color: white
+}
+/*I hade added some sytles to make the we page more presentable.*/
+
+a {
+    color: rgb(56, 102, 193);
+}
+a:hover {
+    background-color: rgb(88, 90, 132);
+}
+h3{
+    color: white;
+}
+p{
+    color: rgb(25, 8, 76)
+}
+#para1 {
+    color: white;
+}
